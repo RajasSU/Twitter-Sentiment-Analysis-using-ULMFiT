@@ -3,7 +3,7 @@ Technologies used: Python, Pandas, Numpy, Sklearn, Nltk, Fastai, Seaborn.
 
 ## Problem Description
 This project 'Twitter Sentiment Analysis using ULMFiT' consisted of a thorough analysis of the dataset and prediction of Twitter sentiments.
-A sentiment analysis job has to be done regarding the problems of each major U.S. airline and contributors. We have first to classify positive, negative, and neutral tweets, and then categorize the negative tweets according to the reasons provided, i.e., "late flight" or "rude service." This problem along with the tataset is available on Kaggle: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+A sentiment analysis job has to be done regarding the problems of each major U.S. airline and contributors. We have first to classify positive, negative, and neutral tweets, and then categorize the negative tweets according to the reasons provided, i.e., "late flight" or "rude service." This problem along with the Dataset is available on Kaggle: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 ## Data exploration and processing
 Exploratory Data Analysis of the dataset conveyed the missing values in a few columns of the dataset. The columns with more than 90% of the missing values were removed, which included tweet_coord , airline_sentiment_gold, negativereason_gold is missing. The majority of the comments are negative, which means that people are generally dissatisfied with the airline companies' service. The airline's sentiments vary significantly depending on the airline. The most positive is Virgin America, while the most negative is United considering the overall sentiment.
