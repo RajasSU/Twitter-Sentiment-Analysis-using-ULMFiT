@@ -2,7 +2,7 @@
 Technologies used: Python, Pandas, Numpy, Sklearn, Nltk, Fastai, Seaborn.
 
 ## Problem Description
-This project 'Twitter Sentiment Analysis using ULMFiT' consisted of a thorough analysis of the dataset and prediction of Twitter sentiments.
+This repository focuses on implementing the project 'Twitter Sentiment Analysis using ULMFiT' which is consisted of a thorough analysis of the dataset and prediction of Twitter sentiments.
 A sentiment analysis job has to be done regarding the problems of each major U.S. airline and contributors. We have first to classify positive, negative, and neutral tweets, and then categorize the negative tweets according to the reasons provided, i.e., "late flight" or "rude service." This problem along with the Dataset is available on Kaggle: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 ## Data exploration and processing
